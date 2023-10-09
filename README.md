@@ -17,4 +17,5 @@ To use these color changers in your project, follow these steps:
 3) Explore the JavaScript code in the respective files to understand how each color-changing mechanism works.
 4) Feel free to integrate these scripts into your own web projects for dynamic background color changes.
 
+Credits:
 This project was created as part of the learning journey by Exequiel. Special thanks to freeCodeCamp.org & Coding Addict on YouTube.
