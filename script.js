@@ -21,5 +21,6 @@ const changeTxtAndBgc = () => {
 // ---- END OF FUNCTIONS ---- //
 
 // ---- EVENT HANDLER ---- //
+// Invoke changeTxtAndBgc function when btn is clicked
 btn.addEventListener("click", changeTxtAndBgc);
 // ---- END OF EVENT HANDLER ---- //
